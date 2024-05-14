@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Celestine Okoro
-- 👀 I’m interested in front end web dev
-- 🌱 I’m currently learning HTML,CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development, Artificial Intelligence, Maachine Learning, and Natural Language Processing.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJs, NodeJs, and Django
+- 💞️ I’m looking to collaborate with my fellow tech enthsiasts who are passioate about providing technology driven solutions to better mankind.
 - 📫 How to reach me : WhatsApp- +2347034565597, Telephone-+2349051512119
 
 <!---
